@@ -13,4 +13,5 @@ Currently, two official plugins are available:
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/21553b44-d2aa-492c-80d6-ef76049a53fe)
 
-![Uploading Screenshot (7).png…]()
+![Screenshot (7)](https://github.com/user-attachments/assets/944c81b3-ad56-4990-8f0d-5ea69a030319)
+
